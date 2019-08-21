@@ -1,0 +1,567 @@
+FID,Property,Area,Status,Name,Old_name,RT_status,r_raster3,ARRIVE_MCP,POINT_X,POINT_Y,IPA,art_nat,Perimeter,Type,Purpose
+1,Wallal Downs,8.9721,Current,Irrigation, , ,823,0,-1219804.085,-2195191.371,0,1,13940,1,Irrigation
+2,Nita Downs,6.0236,Future,Irrigation, , ,1497,0,-1084103.934,-2086340.875,0,1,10543,2,Irrigation
+3,Shalemar,13.688,Current,Irrigation, , ,1525,0,-1077895.601,-2075233.291,0,1,16014,1,Irrigation
+4,Shamrock,23.073,Future,Irrigation, , ,1724,0,-1047700.483,-2019956.64,0,1,21260,2,Irrigation
+5,Shamrock Gardens,3.1233,Current,Irrigation, , ,1747,0,-1053415.09,-2027728.915,0,1,7706,1,Irrigation
+6,Pardoo,0.809,Current,Irrigation,,,533,0,-1293475.91,-2219175.26,0,1,4510,1,Irrigation
+7,Anna Plains,0,Tank,McPhee Well, , ,1495,0,-1098123.832,-2087393.315,0,1,0,1,Artificial
+8,Anna Plains,0,Tank,Almos Bore, , ,1496,0,-1092155.39,-2086327.082,0,1,0,1,Artificial
+9,Anna Plains,0,Tank,Calanjadie Well, , ,1468,0,-1096249.442,-2091240.98,0,1,0,1,Artificial
+10,Anna Plains,0,Tank,Nummery Well, , ,1413,0,-1097484.626,-2098139.919,0,1,0,1,Artificial
+11,Anna Plains,0,Tank,Bauhinia Bore, , ,1385,0,-1092708.061,-2100571.769,0,1,0,1,Artificial
+12,Anna Plains,0,Tank,Cardingy Bore, , ,1383,0,-1099620.582,-2103807.182,0,1,0,1,Artificial
+13,Anna Plains,0,Tank,No 4 Bore, , ,1385,0,-1088335.219,-2102999.269,0,1,0,1,Artificial
+14,Anna Plains,0,Tank,Homestead Bore, , ,1383,0,-1100717.401,-2106472.8,0,1,0,1,Artificial
+15,Anna Plains,0,Tank,Pindan Bore, , ,1355,0,-1094343.793,-2107075.661,0,1,0,1,Artificial
+16,Anna Plains,0,Tank,Yellow Gap Well, , ,1355,0,-1097219.872,-2110486.952,0,1,0,1,Artificial
+17,Anna Plains,0,Bore,Artesian Bore, , ,1355,0,-1097785.444,-2106554.681,0,1,0,1,Artificial
+18,Anna Plains,0,Tank,Rachel Poly, , ,1354,0,-1101435.196,-2112534.016,0,1,0,1,Artificial
+19,Anna Plains,0,Tank,Pinchers Poly, , ,1323,0,-1105045.329,-2114703.889,0,1,0,1,Artificial
+20,Anna Plains,0,Tank,Helen Poly, , ,1353,0,-1107458.965,-2110819.828,0,1,0,1,Artificial
+21,Anna Plains,0,Tank,Dusty Poly, , ,1323,0,-1108231.452,-2114711.968,0,1,0,1,Artificial
+22,Anna Plains,0,Tank,Bevan Fibreglass, , ,1321,0,-1112023.761,-2115436.198,0,1,0,1,Artificial
+23,Anna Plains,0,Tank,Poly Tank, , ,1325,0,-1092255.522,-2115282.68,0,1,0,1,Artificial
+24,Anna Plains,0,Tank,Poly Tank, , ,1324,0,-1098794.258,-2118217.362,0,1,0,1,Artificial
+25,Anna Plains,0,Bore,Mono Bore, , ,1293,0,-1102705.444,-2118925.621,0,1,0,1,Artificial
+26,Anna Plains,0,Tank,Erinbee Tank, , ,1292,0,-1104192.992,-2120151.027,0,1,0,1,Artificial
+27,Anna Plains,0,Tank,Top Tank, , ,1323,0,-1105212.65,-2116750.701,0,1,0,1,Artificial
+28,Anna Plains,0,Tank,2 Mile Tank, , ,1323,0,-1107012.982,-2117571.104,0,1,0,1,Artificial
+29,Anna Plains,0,Dam,Ian Turkey Nest, , ,1321,0,-1109443.745,-2117997.853,0,1,0,2,Artificial
+30,Anna Plains,0,Dam,Yup Turkey Nest, , ,1290,0,-1112491.04,-2120652.369,0,1,0,2,Artificial
+31,Anna Plains,0,Tank,Curly Bore, , ,1260,0,-1103980.076,-2124750.876,0,1,0,1,Artificial
+32,Anna Plains,0,Tank,Blues Poly, , ,1290,0,-1108557.461,-2123178.605,0,1,0,1,Artificial
+33,Anna Plains,0,Dam,Dundee Turkey Nest, , ,1290,0,-1113662.119,-2123191.77,0,1,0,2,Artificial
+34,Anna Plains,0,Tank,Three Ways Bore, , ,1293,0,-1099724.144,-2123206.56,0,1,0,1,Artificial
+35,Anna Plains,0,Bore,Nurdy Bore, , ,1258,0,-1109353.754,-2129263.441,0,1,0,1,Artificial
+36,Anna Plains,0,Dam,Nurdy Turkey Nest, , ,1258,0,-1109653.928,-2129396.187,0,1,0,2,Artificial
+37,Anna Plains,0,Tank,Nurdy Poly, , ,1258,0,-1111235.826,-2128258.604,0,1,0,1,Artificial
+38,Anna Plains,0,Tank,Simone Poly, , ,1257,0,-1114123.654,-2126202.449,0,1,0,1,Artificial
+39,Anna Plains,0,Bore,Srewarts Bore, , ,1225,0,-1111943.907,-2133369.627,0,1,0,1,Artificial
+40,Anna Plains,0,Tank,Stewarts Poly, , ,1224,0,-1113440.736,-2131935.92,0,1,0,1,Artificial
+41,Anna Plains,0,Dam,Stewarts Turkey Nest, , ,1257,0,-1116267.834,-2129584.586,0,1,0,2,Artificial
+42,Anna Plains,0,Tank,No 1 Tank, , ,1256,0,-1119211.54,-2126899.097,0,1,0,1,Artificial
+43,Anna Plains,0,Bore,Dallas Bore, , ,1224,0,-1113133.145,-2134520.242,0,1,0,1,Artificial
+44,Anna Plains,0,Tank,Concrete Tank, , ,1225,0,-1111911.514,-2133073.068,0,1,0,1,Artificial
+45,Anna Plains,0,Tank,Jo Poly, , ,1224,0,-1115277.735,-2134761.289,0,1,0,1,Artificial
+46,Anna Plains,0,Dam,Addison Turkey Nest, , ,1223,0,-1118536.362,-2132896.068,0,1,0,2,Artificial
+47,Anna Plains,0,Dam,Ocean Turkey Nest, , ,1256,0,-1122027.923,-2130895.213,0,1,0,2,Artificial
+48,Anna Plains,0,Bore,Joseph Bore, , ,1225,0,-1109772.318,-2134864.019,0,1,0,1,Artificial
+49,Anna Plains,0,Bore,Widjub Bore, , ,1224,0,-1114568.814,-2136998.436,0,1,0,1,Artificial
+50,Anna Plains,0,Tank,Widjub Poly, , ,1224,0,-1114982.15,-2136828.656,0,1,0,1,Artificial
+51,Anna Plains,0,Dam,Deans Turkey Nest, , ,1223,0,-1119128.225,-2137131.271,0,1,0,2,Artificial
+52,Anna Plains,0,Dam,Jacks Turkey Nest, , ,1223,0,-1122570.316,-2135236.528,0,1,0,2,Artificial
+53,Anna Plains,0,Tank,Phoebe Poly, , ,1222,0,-1125729.351,-2133680.452,0,1,0,1,Artificial
+54,Anna Plains,0,Bore,Rocky Bore 1, , ,1190,0,-1116158.099,-2143101.918,0,1,0,1,Artificial
+55,Anna Plains,0,Tank,Links Concrete Tank, , ,1190,0,-1116243.786,-2142622.232,0,1,0,1,Artificial
+56,Anna Plains,0,Dam,Butch Turkey Nest, , ,1223,0,-1123352.905,-2137905.734,0,1,0,2,Artificial
+57,Anna Plains,0,Dam,Tim Turkey Nest, , ,1189,0,-1120577.214,-2140830.757,0,1,0,2,Artificial
+58,Anna Plains,0,Bore,Rockys Bore 2, , ,1154,0,-1116039.76,-2143595.596,0,1,0,1,Artificial
+59,Anna Plains,0,Tank,Rocky Fibreglass Tank, , ,1153,0,-1120275.424,-2144561.022,0,1,0,1,Artificial
+60,Anna Plains,0,Tank,Fly Fibreglass Tank, , ,1153,0,-1122024.861,-2143885.14,0,1,0,1,Artificial
+61,Anna Plains,0,Dam,Marks Turkey Nest, , ,1189,0,-1122831.972,-2143105.793,0,1,0,2,Artificial
+62,Anna Plains,0,Dam,Samphire Turkey Nest, , ,1188,0,-1126362.187,-2141745.811,0,1,0,2,Artificial
+63,Anna Plains,0,Bore,McGoo Bore, , ,1153,0,-1118095.991,-2147540.775,0,1,0,1,Artificial
+64,Anna Plains,0,Tank,Richard Poly, , ,1152,0,-1126114.986,-2147073.786,0,1,0,1,Artificial
+65,Anna Plains,0,Tank,Eva Poly, , ,1187,0,-1128828.619,-2144008.295,0,1,0,1,Artificial
+66,Anna Plains,0,Tank,Judith Poly, , ,1151,0,-1131236.247,-2146130.098,0,1,0,1,Artificial
+67,Anna Plains,0,Bore,MRD Bore, , ,1116,0,-1117381.944,-2151428.363,0,1,0,1,Artificial
+68,Anna Plains,0,Tank,Scotland Fibreglass Tank, , ,1116,0,-1118905.27,-2150270.255,0,1,0,1,Artificial
+69,Anna Plains,0,Tank,England Fibreglass Tank, , ,1115,0,-1123762.877,-2150384.226,0,1,0,1,Artificial
+70,Anna Plains,0,Tank,Wales Fibreglass Tank, , ,1115,0,-1127183.846,-2151070.821,0,1,0,1,Artificial
+71,Anna Plains,0,Dam,James Turkey Nest, , ,1076,0,-1123175.562,-2157077.619,0,1,0,2,Artificial
+72,Anna Plains,0,Bore,Wotans Bore, , ,1033,0,-1132351.782,-2165025.5,0,1,0,1,Artificial
+73,Anna Plains,0,Tank,Wotans Fibreglass Tank, , ,1032,0,-1133141.515,-2164445.798,0,1,0,1,Artificial
+74,Anna Plains,0,Dam,Fays Turkey Nest, , ,1074,0,-1133230.775,-2157970.578,0,1,0,2,Artificial
+75,Anna Plains,0,Dam,Ooks Turkey Nest, , ,1113,0,-1135670.222,-2154607.646,0,1,0,2,Artificial
+76,Anna Plains,0,Tank,Brians Poly, , ,1113,0,-1136272.255,-2151610.545,0,1,0,1,Artificial
+77,Anna Plains,0,Tank,Phire Bore, , ,1357,0,-1086305.245,-2108188.295,0,1,0,1,Artificial
+78,Anna Plains,0,Tank,White Gum Bore, , ,1326,0,-1087349.687,-2116762.949,0,1,0,1,Artificial
+79,Anna Plains,0,Tank,Milly Milly Bore, , ,1295,0,-1090319.708,-2120534.014,0,1,0,1,Artificial
+80,Anna Plains,0,Tank,Walnut Bore, , ,1263,0,-1086403.181,-2126525.338,0,1,0,1,Artificial
+81,Anna Plains,0,Tank,Baker Bore, , ,1261,0,-1097255.575,-2125950.84,0,1,0,1,Artificial
+82,Anna Plains,0,Dam,Bakers Dam, , ,1262,0,-1095848.644,-2129291.62,0,1,0,2,Artificial
+83,Anna Plains,0,Tank,Bull Head Bore, , ,1228,0,-1101294.268,-2131743.567,0,1,0,1,Artificial
+84,Anna Plains,0,Tank,Wild Dog Bore, , ,1227,0,-1105354.011,-2136458.833,0,1,0,1,Artificial
+85,Anna Plains,0,Dam,Bruce Dam, , ,1194,0,-1096507.368,-2139391.244,0,1,0,2,Artificial
+86,Anna Plains,0,Tank,Camel Bore, , ,1118,0,-1106668.982,-2149793.041,0,1,0,1,Artificial
+87,Anna Plains,0,Dam,Bob's Bore, , ,1121,0,-1097039.778,-2149409.883,0,1,0,2,Artificial
+88,Anna Plains,0,Tank,Rosewood Bore, , ,1154,0,-1113520.455,-2146978.638,0,1,0,1,Artificial
+89,Anna Plains,0,Tank,Emu Bore, , ,1117,0,-1113910.154,-2152447.483,0,1,0,1,Artificial
+90,Anna Plains,0,Bore,Roscoe Bore, , ,1078,0,-1115442.318,-2156836.754,0,1,0,1,Artificial
+91,Anna Plains,0,Tank,Combo Poly, , ,1077,0,-1117498.93,-2157021.851,0,1,0,1,Artificial
+92,Anna Plains,0,Tank,Kalgoorlie Fibreglass, , ,1077,0,-1119126.964,-2158722.126,0,1,0,1,Artificial
+93,Anna Plains,0,Tank,Friday Bore, , ,1078,0,-1111537.178,-2158260.081,0,1,0,1,Artificial
+94,Anna Plains,0,Tank,Lyngett Bore, , ,1082,0,-1099055.027,-2156757.645,0,1,0,1,Artificial
+95,Anna Plains,0,Tank,Boulder Bore, , ,1033,0,-1129303.751,-2167279.858,0,1,0,1,Artificial
+96,Anna Plains,0,Tank,Coolgardie Well, , ,990,0,-1123075.437,-2167694.537,0,1,0,1,Artificial
+97,Pardoo,0, ,Pardoo Caravan Park and Homestead,Dwelling, ,534,0,-1290514.777,-2218877.201,0,1,0,1,Dwelling
+98,Wallal Downs,0, ,Wallal Downs Homestead,Dwelling, ,979,0,-1183924.708,-2172148.186,0,1,0,1,Dwelling
+99,Mandora,0, ,Sandfire Roadhouse,Dwelling, ,1032,0,-1136841.338,-2167091.657,0,1,0,1,Dwelling
+100,Frazier Downs,0, ,Kalyadajan Community,Dwelling, ,1522,0,-1090163.204,-2081981.023,0,1,0,1,Dwelling
+101,Frazier Downs,0, ,Purrpurrngangjal Community,Dwelling, ,1600,0,-1088438.381,-2062452.934,0,1,0,1,Dwelling
+102,Frazier Downs,0, ,Frazier Downs Community,Dwelling, ,1626,0,-1081513.243,-2054323.033,0,1,0,1,Dwelling
+103,Frazier Downs,0, ,Kalyadajan Community,Dwelling, ,1655,0,-1062609.655,-2047606.535,0,1,0,1,Dwelling
+104,Frazier Downs,0, ,Wanamuluyundeny Community,Dwelling, ,1655,0,-1063155.502,-2046703.548,0,1,0,1,Dwelling
+105,Frazier Downs,0, ,Rollah Community,Dwelling, ,1651,0,-1082705.61,-2045429.069,0,1,0,1,Dwelling
+106,Frazier Downs,0.68, ,La Grange,Dwelling, ,1676,0,-1074994.042,-2041022.588,0,1,0,1,Dwelling
+107,Shamrock,0, ,Shamrock Homestead,Dwelling, ,1747,0,-1047802.815,-2024671.92,0,1,0,1,Dwelling
+108,Frazier Downs,0, ,Pilingpiling Community,Dwelling, ,1765,0,-1070911.194,-2020813.18,0,1,0,1,Dwelling
+109,Frazier Downs,0, ,Nygah Hygah Community,Dwelling, ,1766,0,-1061938.911,-2020100.816,0,1,0,1,Dwelling
+110,Frazier Downs,0, ,Yardoogarra Community,Dwelling, ,1766,0,-1062310.972,-2015394.759,0,1,0,1,Dwelling
+111,Thangoo,0, ,Barn Hill Caravan Park,Dwelling, ,1805,0,-1050401.264,-2003565.177,0,1,0,1,Dwelling
+112,Thangoo,0, ,Eco Beach Resort,Dwelling, ,1822,0,-1046438.852,-1999466.589,0,1,0,1,Dwelling
+113,Pardoo,0, ,Pardoo Roadhouse,Dwelling, ,615,0,-1265436.754,-2210493.854,0,1,0,1,Dwelling
+114, ,0, ,80 Mile Beach Caravan Park,Dwelling, ,1024,0,-1180771.649,-2169158.55,0,1,0,1,Dwelling
+115,Mandora,0, ,Mandora Homestead,Dwelling, ,1027,0,-1163133.548,-2166299.391,0,1,0,1,Dwelling
+116,Nita Downs,0, ,Nita Downs Homestead,Dwelling, ,1498,0,-1082300.164,-2086301.605,0,1,0,1,Dwelling
+117,Thangoo,0, ,Thangoo Homestead 1,Dwelling, ,1805,0,-1050442.113,-2003951.24,0,1,0,1,Dwelling
+118,Thangoo,0, ,Thangoo unknown,Dwelling, ,1823,0,-1040356.357,-1996419.266,0,1,0,1,Dwelling
+119,Thangoo,0, ,Thangoo unknown,Dwelling, ,1882,0,-1018684.006,-1980487.844,0,1,0,1,Dwelling
+120,Thangoo,0, ,Thangoo Homestead 2,Dwelling, ,1904,0,-1007938.539,-1969395.14,0,1,0,1,Dwelling
+121,Roebuck Plains,0, ,Roebuck Homestead,Dwelling, ,1928,1,-1008635.903,-1952218.909,0,1,0,1,Dwelling
+122,Mandora,0, , ,WELL, ,1026,0,-1166734.794,-2167031.2,0,1,0,1,Artificial
+123, ,0, , ,WELL, ,1495,0,-1098121.901,-2083102.45,0,1,0,1,Artificial
+124,Frazier Downs,0, , ,WELL, ,1575,0,-1087895.656,-2069982.858,1,1,0,1,Artificial
+125,Frazier Downs,0, , ,WELL, ,1576,0,-1079935.065,-2069322.634,1,1,0,1,Artificial
+126,Frazier Downs,0, , ,WELL, ,1575,0,-1089765.99,-2066640.324,0,1,0,1,Artificial
+127,Frazier Downs,0, , ,WELL, ,1601,0,-1084843.977,-2062967.936,1,1,0,1,Artificial
+128,Frazier Downs,0, , ,WELL, ,1602,0,-1076620.704,-2061297.867,0,1,0,1,Artificial
+129,Frazier Downs,0, , ,WELL, ,1601,0,-1081573.182,-2058477.421,0,1,0,1,Artificial
+130,Frazier Downs,0, , ,WELL, ,1625,0,-1086333.051,-2053168.625,0,1,0,1,Artificial
+131,Frazier Downs,0, , ,WELL, ,1628,0,-1072276.981,-2053272.943,0,1,0,1,Artificial
+132,Frazier Downs,0, , ,WELL, ,1653,0,-1072451.006,-2048778.939,0,1,0,1,Artificial
+133,Frazier Downs,0, , ,WELL, ,1652,0,-1079628.28,-2051164.886,0,1,0,1,Artificial
+134,Frazier Downs,0, , ,WELL, ,1651,0,-1084164.44,-2051564.49,0,1,0,1,Artificial
+135,Frazier Downs,0, , ,WELL, ,1651,0,-1086113.797,-2048600.96,0,1,0,1,Artificial
+136,Frazier Downs,0, , ,WELL, ,1722,0,-1061855.911,-2026822.403,0,1,0,1,Artificial
+137,Frazier Downs,0, , ,WELL, ,1745,0,-1058783.04,-2024735.648,0,1,0,1,Artificial
+138,Roebuck,0,Tank, ,WELL,Tank,1926,1,-1019508.981,-1953955.554,0,1,0,1,Artificial
+139, ,0, , ,WELL, ,1990,1,-1038491.321,-1927151.635,0,1,0,1,Artificial
+140, ,0, , ,WELL, ,1962,1,-1036584.76,-1942322.768,0,1,0,1,Artificial
+141, ,0, , ,WELL, ,325,0,-1205883.629,-2232761.809,0,1,0,1,Artificial
+142, ,0, , ,WELL, ,381,0,-1304897.864,-2232437.914,0,1,0,1,Artificial
+143, ,0, , ,WELL, ,532,0,-1302576.856,-2224216.426,0,1,0,1,Artificial
+144, ,0, , ,WELL, ,753,0,-1310891.436,-2209467.134,0,1,0,1,Artificial
+145, ,0, , ,WELL, ,529,2,-1317234.93,-2223576.171,0,1,0,1,Artificial
+146, ,0, , ,WELL, ,603,0,-1321604.428,-2220848.943,0,1,0,1,Artificial
+147, ,0, , ,WELL, ,603,0,-1325994.874,-2219704.164,0,1,0,1,Artificial
+148, ,0, , ,WELL, ,751,0,-1324617.233,-2210829.064,0,1,0,1,Artificial
+149,Pardoo,0,Tank, ,WELL,Tank,755,0,-1267912.685,-2203300.064,0,1,0,1,Artificial
+150,Pardoo,0,Tank, ,WELL,Tank,755,0,-1268723.784,-2204295.346,0,1,0,1,Artificial
+151,Pardoo,0,Tank, ,WELL,Tank,756,0,-1265497.263,-2204032.535,0,1,0,1,Artificial
+152,Pardoo,0,Tank, ,WELL,Tank,757,0,-1260586.342,-2202047.518,0,1,0,1,Artificial
+153,Pardoo,0,Tank, ,WELL,Tank,817,0,-1256762.679,-2200604.072,0,1,0,1,Artificial
+154,Pardoo,0,Tank, ,WELL,Tank,818,0,-1251272.488,-2199543.314,0,1,0,1,Artificial
+155,Pardoo,0,Tank, ,WELL,Tank,818,0,-1249404.462,-2200763.874,0,1,0,1,Artificial
+156,Pardoo,0,Tank, ,WELL,Tank,817,0,-1253670.295,-2201453.975,0,1,0,1,Artificial
+157,Pardoo,0,Tank, ,WELL,Tank,817,0,-1255232.096,-2202203.48,0,1,0,1,Artificial
+158,Pardoo,0,Tank, ,WELL,Tank,817,0,-1255167.611,-2202937.207,0,1,0,1,Artificial
+159,Pardoo,0,Tank, ,WELL,Tank,614,0,-1271098.63,-2213779.435,0,1,0,1,Artificial
+160,Pardoo,0,Tank, ,WELL,Tank,314,0,-1266942.619,-2234236.036,0,1,0,1,Artificial
+161,Pardoo,0,Tank, ,WELL,Tank,464,0,-1267725.333,-2227593.377,0,1,0,1,Artificial
+162,Mandora,0, , ,TANK, ,1073,0,-1140933.514,-2157299.485,0,1,0,1,Artificial
+163,Mandora,0, , ,TANK, ,1071,0,-1151075.299,-2161540.94,0,1,0,1,Artificial
+164,Mandora,0, , ,TANK, ,1031,0,-1139445.092,-2163244.014,0,1,0,1,Artificial
+165,Mandora,0, , ,TANK, ,1026,0,-1166500.256,-2166888.224,0,1,0,1,Artificial
+166,Mandora,0, , ,TANK, ,1031,0,-1140438.217,-2164945.873,0,1,0,1,Artificial
+167,Mandora,0, , ,TANK, ,1070,0,-1155951.815,-2164382.551,0,1,0,1,Artificial
+168,Mandora,0, , ,TANK, ,1072,0,-1145008.772,-2160210.869,0,1,0,1,Artificial
+169,Nita Downs,0,Tank, ,TANK,Dam,1471,0,-1078865.327,-2090461.891,0,1,0,1,Artificial
+170,Frazier Downs,0, , ,TANK, ,1549,0,-1087472.714,-2074860.599,0,1,0,1,Artificial
+171,Frazier Downs,0, , ,TANK, ,1575,0,-1087166.587,-2067315.171,1,1,0,1,Artificial
+172, ,0, , ,TANK, ,1600,0,-1086701.415,-2062219.845,1,1,0,1,Artificial
+173,Frazier Downs,0, , ,TANK, ,1626,0,-1083132.799,-2056419.129,0,1,0,1,Artificial
+174,Frazier Downs,0, , ,TANK, ,1626,0,-1082272.64,-2053792.735,0,1,0,1,Artificial
+175,Frazier Downs,0, , ,TANK, ,1652,0,-1079893.061,-2051570.626,0,1,0,1,Artificial
+176,Frazier Downs,0, , ,TANK, ,1676,0,-1074046.907,-2040055.384,0,1,0,1,Artificial
+177,Frazier Downs,0, , ,TANK, ,1722,0,-1064869.109,-2031400.94,1,1,0,1,Artificial
+178,Frazier Downs,0, , ,TANK, ,1549,0,-1089776.333,-2075044.551,0,1,0,1,Artificial
+179,Thangoo,0,Tank, ,TANK,Tank,1871,0,-1014470.905,-1984551.554,0,1,0,1,Artificial
+180,Thangoo,0,Tank, ,TANK,Tank,1893,0,-1012434.516,-1972485.847,0,1,0,1,Artificial
+181,Thangoo,0,Tank, ,TANK,Tank,1822,0,-1046092.611,-2000196.138,0,1,0,1,Artificial
+182,Roebuck,0,Tank, ,TANK,Tank,1932,1,-984412.2993,-1953170.793,0,1,0,1,Artificial
+183,Roebuck,0,Tank, ,TANK,Tank,1919,1,-985265.2101,-1957544.261,0,1,0,1,Artificial
+184,Roebuck,0,Tank, ,TANK,Tank,1918,1,-987432.6701,-1957263.287,0,1,0,1,Artificial
+185,Roebuck,0,Tank, ,TANK,Tank,1955,1,-1002673.856,-1944392.311,0,1,0,1,Artificial
+186,Roebuck,0,Tank, ,TANK,Tank,1957,1,-992159.5816,-1940464.7,0,1,0,1,Artificial
+187,Roebuck,0,Tank, ,TANK,Tank,1943,1,-995890.7997,-1950068.454,0,1,0,1,Artificial
+188,Roebuck,0,Tank, ,TANK,Tank,1958,1,-982787.5487,-1943208.333,0,1,0,1,Artificial
+189,Roebuck,0,Tank, ,TANK,Tank,1916,1,-999857.0495,-1962730.233,0,1,0,1,Artificial
+190,Roebuck,0,Tank, ,TANK,Tank,1908,1,-984670.0387,-1964636.625,0,1,0,1,Artificial
+191,Roebuck,0,Tank, ,TANK,Tank,1925,1,-1021993.065,-1953400.673,0,1,0,1,Artificial
+192,Roebuck,0,Tank, ,TANK,Tank,1928,1,-1008107.588,-1954477.383,0,1,0,1,Artificial
+193,Roebuck,0,Tank, ,TANK,Tank,1940,1,-1012842.203,-1950846.175,0,1,0,1,Artificial
+194,Roebuck,0,Tank, ,TANK,Tank,1940,1,-1012720.259,-1950723.737,0,1,0,1,Artificial
+195,Roebuck,0,Tank, ,TANK,Tank,1940,1,-1014589.083,-1951054.378,0,1,0,1,Artificial
+196,Roebuck,0,Tank, ,TANK,Tank,1940,1,-1010580.191,-1948610.648,0,1,0,1,Artificial
+197,Roebuck,0,Tank, ,TANK,Tank,1940,1,-1010438.379,-1951068.975,0,1,0,1,Artificial
+198,Roebuck,0,Tank, ,TANK,Tank,1941,1,-1006550.927,-1951339.819,0,1,0,1,Artificial
+199, ,0, , ,TANK, ,1964,1,-1028646.697,-1936364.215,0,1,0,1,Artificial
+200, ,0, , ,TANK, ,1964,1,-1029423.626,-1937444.64,0,1,0,1,Artificial
+201, ,0, , ,TANK, ,1949,1,-1035079.954,-1946584.009,0,1,0,1,Artificial
+202, ,0, , ,TANK, ,1949,1,-1034701.765,-1947473.367,0,1,0,1,Artificial
+203,Frazier Downs,0, , ,TANK, ,1698,0,-1071081.434,-2036516.815,0,1,0,1,Artificial
+204, ,0, , ,TANK, ,306,0,-1307736.733,-2243363.71,0,1,0,1,Artificial
+205, ,0, , ,TANK, ,378,0,-1323250.286,-2238898.525,0,1,0,1,Artificial
+206, ,0, , ,TANK, ,751,0,-1323069.762,-2213290.345,0,1,0,1,Artificial
+207, ,0, , ,TANK, ,603,0,-1324366.467,-2216268.353,0,1,0,1,Artificial
+208, ,0, , ,TANK, ,751,0,-1322755.079,-2211417.468,0,1,0,1,Artificial
+209, ,0, , ,TANK, ,751,0,-1323939.578,-2209196.284,0,1,0,1,Artificial
+210,Pardoo,0,Tank, ,TANK,Tank,233,0,-1294749,-2246352.013,0,1,0,1,Artificial
+211,Pardoo,0,Tank, ,TANK,Tank,534,0,-1292827.116,-2220739.193,0,1,0,1,Artificial
+212, ,0, , ,TANK, ,753,0,-1316442.898,-2208630.346,0,1,0,1,Artificial
+213,Wallal Downs,0,Tank, ,BOREEQ,Tank,820,0,-1238073.833,-2196209.695,0,1,0,1,Artificial
+214,Wallal Downs,0,Tank, ,BOREEQ,Tank,928,0,-1200091.797,-2181509.836,0,1,0,1,Artificial
+215,Wallal Downs,0,Tank, ,BOREEQ,Tank,823,0,-1223779.71,-2192328.2,0,1,0,1,Artificial
+216,Wallal Downs,0,Tank, ,BOREEQ,Tank,981,0,-1172329.545,-2177226.823,0,1,0,1,Artificial
+217,Wallal Downs,0,Tank, ,BOREEQ,Tank,1025,0,-1173335.613,-2170973.799,0,1,0,1,Artificial
+218,Mandora,0, , ,BOREEQ, ,982,0,-1166364.002,-2171972.145,0,1,0,1,Artificial
+219,Mandora,0, , ,BOREEQ, ,1026,0,-1168084.032,-2170313.497,0,1,0,1,Artificial
+220,Mandora,0, , ,BOREEQ, ,1027,0,-1165591.388,-2166275.444,0,1,0,1,Artificial
+221,Wallal Downs,0,Tank, ,BOREEQ,Tank,1025,0,-1173051.738,-2166149.023,0,1,0,1,Artificial
+222,Wallal Downs,0,Tank, ,BOREEQ,Tank,1024,0,-1180725.972,-2171280.918,0,1,0,1,Artificial
+223,Wallal Downs,0,Tank, ,BOREEQ,Tank,979,0,-1186598.902,-2174282.495,0,1,0,1,Artificial
+224,Mandora,0, , ,BOREEQ, ,1031,0,-1142418.959,-2168410.263,0,1,0,1,Artificial
+225,Mandora,0, , ,BOREEQ, ,1029,0,-1150849.513,-2166958.666,0,1,0,1,Artificial
+226,Mandora,0, , ,BOREEQ, ,1027,0,-1163249.792,-2166295.469,0,1,0,1,Artificial
+227,Nita Downs,0,Tank, ,BOREEQ,Dam,1474,0,-1062567.31,-2090642.137,0,1,0,1,Artificial
+228,Nita Downs,0,Tank, ,BOREEQ,Dam,1498,0,-1082237.689,-2086521.437,0,1,0,1,Artificial
+229,Frazier Downs,0, , ,BOREEQ, ,1744,0,-1063413.175,-2026817.723,0,1,0,1,Artificial
+230,Frazier Downs,0, , ,BOREEQ, ,1676,0,-1074098.555,-2039715.865,0,1,0,1,Artificial
+231,Frazier Downs,0, , ,BOREEQ, ,1698,0,-1071384.007,-2036494.424,0,1,0,1,Artificial
+232,Frazier Downs,0, , ,BOREEQ, ,1722,0,-1064603.72,-2031627.815,1,1,0,1,Artificial
+233,Frazier Downs,0, , ,BOREEQ, ,1721,0,-1068782.352,-2027923.62,1,1,0,1,Artificial
+234,Frazier Downs,0, , ,BOREEQ, ,1675,0,-1076818.259,-2041460.405,0,1,0,1,Artificial
+235,Frazier Downs,0, , ,BOREEQ, ,1522,0,-1092615.448,-2081512.534,0,1,0,1,Artificial
+236,Thangoo,0,Tank, ,BOREEQ,Dam,1904,0,-1003064.817,-1969033.122,0,1,0,1,Artificial
+237,Thangoo,0,Tank, ,BOREEQ,Tank,1893,0,-1009495.593,-1971013.076,0,1,0,1,Artificial
+238,Thangoo,0,Tank, ,BOREEQ,Tank,1840,0,-1032177.784,-1993639.741,0,1,0,1,Artificial
+239,Thangoo,0,Tank, ,BOREEQ,Tank,1822,0,-1046279.705,-2000477.259,0,1,0,1,Artificial
+240,Thangoo,0,Tank, ,BOREEQ,Tank,1883,0,-1008443.685,-1976974.951,0,1,0,1,Artificial
+241,Thangoo,0,Tank, ,BOREEQ,Tank,1869,0,-1026425.209,-1985286.825,0,1,0,1,Artificial
+242,Thangoo,0,Tank, ,BOREEQ,Tank,1823,0,-1040577.692,-1996476.793,0,1,0,1,Artificial
+243,Thangoo,0,Tank, ,BOREEQ,Tank,1805,0,-1046436.92,-2007520.642,0,1,0,1,Artificial
+244,Thangoo,0,Tank, ,BOREEQ,Tank,1885,0,-998909.7344,-1978847.678,0,1,0,1,Artificial
+245,Roebuck,0,Tank, ,BOREEQ,Tank,1933,1,-981196.8103,-1952397.335,0,1,0,1,Artificial
+246,Roebuck,0,Tank, ,BOREEQ,Tank,1932,1,-984689.5674,-1953267.347,0,1,0,1,Artificial
+247,Roebuck,0,Tank, ,BOREEQ,Tank,1919,1,-985509.9911,-1957619.218,0,1,0,1,Artificial
+248,Roebuck,0,Tank, ,BOREEQ,Tank,1918,1,-987639.2074,-1957338.25,0,1,0,1,Artificial
+249,Roebuck,0,Tank, ,BOREEQ,Tank,1955,1,-1002848.116,-1944454.976,0,1,0,1,Artificial
+250,Roebuck,0,Tank, ,BOREEQ,Tank,1955,1,-1000740.218,-1944975.997,0,1,0,1,Artificial
+251,Roebuck,0,Dam, ,BOREEQ,Dam,1956,1,-996730.6027,-1943631.948,0,1,0,2,Artificial
+252,Roebuck,0,Tank, ,BOREEQ,Tank,1957,1,-992363.8042,-1940651.606,0,1,0,1,Artificial
+253,Roebuck,0,Tank, ,BOREEQ,Tank,1917,1,-995689.3258,-1961040.257,0,1,0,1,Artificial
+254,Roebuck,0,Tank, ,BOREEQ,Tank,1917,1,-994471.9732,-1959610.651,0,1,0,1,Artificial
+255,Roebuck,0,Tank, ,BOREEQ,Tank,1916,1,-999695.8779,-1962653.745,0,1,0,1,Artificial
+256,Roebuck,0,Tank, ,BOREEQ,Tank,1905,1,-1001638.985,-1964149.522,0,1,0,1,Artificial
+257,Roebuck,0,Tank, ,BOREEQ,Tank,1918,1,-989508.896,-1960406.519,0,1,0,1,Artificial
+258,Roebuck,0,Tank, ,BOREEQ,Tank,1925,1,-1021831.327,-1953312.831,0,1,0,1,Artificial
+259,Roebuck,0,Tank, ,BOREEQ,Tank,1940,1,-1010788.01,-1948521.87,0,1,0,1,Artificial
+260,Roebuck,0,Tank, ,BOREEQ,Tank,1940,1,-1013025.951,-1951036.246,0,1,0,1,Artificial
+261,Roebuck,0,Tank, ,BOREEQ,Tank,1940,1,-1014772.657,-1951102.074,0,1,0,1,Artificial
+262,Roebuck,0,Tank, ,BOREEQ,Tank,1940,1,-1010218.208,-1951111.215,0,1,0,1,Artificial
+263, ,0, , ,BOREEQ, ,1976,1,-1037518.381,-1932254.999,0,1,0,1,Artificial
+264, ,0, , ,BOREEQ, ,1978,1,-1030829.969,-1934947.968,0,1,0,1,Artificial
+265, ,0, , ,BOREEQ, ,1950,1,-1032601.066,-1945599.036,0,1,0,1,Artificial
+266, ,0, , ,BOREEQ, ,1937,1,-1032114.632,-1950440.217,0,1,0,1,Artificial
+267, ,0, , ,BOREEQ, ,2006,1,-1033381.046,-1922727.772,0,1,0,1,Artificial
+268, ,0, , ,BOREEQ, ,1998,1,-994992.2171,-1923978.817,0,1,0,1,Artificial
+269, ,0, , ,BOREEQ, ,1990,1,-1037991.382,-1928192.349,0,1,0,1,Artificial
+270,Shamrock,0,Tank, ,BOREEQ,Tank,1678,0,-1059827.001,-2042827.893,0,1,0,1,Artificial
+271,Shamrock,0,Dam, ,BOREEQ,Dam,1724,0,-1052645.846,-2029177.178,0,1,0,2,Artificial
+272,Shamrock,0,Dam, ,BOREEQ,Dam,1703,0,-1045040.364,-2032206.797,0,1,0,2,Artificial
+273,Shamrock,0,Dam, ,BOREEQ,Dam,1724,0,-1053442.092,-2030519.873,0,1,0,2,Artificial
+274,Frazier Downs,0, , ,BOREEQ, ,1654,0,-1066891.652,-2047189.03,0,1,0,1,Artificial
+275,Pardoo,0,Tank, ,BOREEQ,Tank,755,0,-1271204.941,-2205442.523,0,1,0,1,Artificial
+276,Pardoo,0,Tank, ,BOREEQ,Tank,817,0,-1255912.733,-2202594.353,0,1,0,1,Artificial
+277,Nita Downs,0,Tank, ,BOREEQ,Dam,1473,0,-1071140.945,-2091602.68,0,1,0,1,Artificial
+278,Mandora,0, , ,BOREEQ, ,987,0,-1139002.323,-2172062.75,0,1,0,1,Artificial
+279,Mandora,0, , ,BOREEQ, ,986,0,-1145694.004,-2174564.304,0,1,0,1,Artificial
+280,Mandora,0, , ,BOREEQ, ,985,0,-1153455.802,-2174209.15,0,1,0,1,Artificial
+281,Mandora,0, , ,BOREEQ, ,1027,0,-1161210.337,-2166856.403,0,1,0,1,Artificial
+282, ,0, , ,BOREEQ, ,455,2,-1313077.379,-2226488.87,0,1,0,1,Artificial
+283,Pardoo,0,Tank, ,BOREEQ,Tank,383,0,-1295236.655,-2232164.619,0,1,0,1,Artificial
+284, ,0, , ,BOREEQ, ,751,0,-1323952.384,-2208883.123,0,1,0,1,Artificial
+285,Pardoo,0, , ,BOREEQ,Tank,755,0,-1270283.941,-2206864.663,0,1,0,1,Artificial
+286,Pardoo,0, , ,BOREEQ,Tank,614,0,-1272231.9,-2211383.451,0,1,0,1,Artificial
+287,Pardoo,0,Tank, ,BOREEQ,Tank,614,0,-1271419.204,-2212983.357,0,1,0,1,Artificial
+288,Pardoo,0,Tank, ,BOREEQ,Tank,612,0,-1282436.798,-2216546.946,0,1,0,1,Artificial
+289,Pardoo,0,Tank, ,BOREEQ,Tank,534,0,-1288681.826,-2220857.079,0,1,0,1,Artificial
+290,Pardoo,0,Tank, ,BOREEQ,Tank,537,0,-1279177.851,-2220759.542,0,1,0,1,Artificial
+291,Pardoo,0,Tank, ,WELLEQ,Tank,760,0,-1241254.709,-2206807.707,0,1,0,1,Artificial
+292,Pardoo,0,Tank, ,WELLEQ,Tank,819,0,-1245338.354,-2198024.735,0,1,0,1,Artificial
+293,Pardoo,0,Tank, ,WELLEQ,Tank,819,0,-1243781.445,-2197378.564,0,1,0,1,Artificial
+294,Wallal Downs,0,Tank, ,WELLEQ,Tank,819,0,-1241511.538,-2200055.303,0,1,0,1,Artificial
+295,Wallal Downs,0,Tank, ,WELLEQ,Tank,820,0,-1238037.682,-2200878.679,0,1,0,1,Artificial
+296,Wallal Downs,0,Tank, ,WELLEQ,Tank,822,0,-1229249.548,-2193871.981,0,1,0,1,Artificial
+297,Wallal Downs,0,Tank, ,WELLEQ,Tank,822,0,-1225968.164,-2194102.42,0,1,0,1,Artificial
+298,Wallal Downs,0,Tank, ,WELLEQ,Tank,878,0,-1205283.672,-2184525.239,0,1,0,1,Artificial
+299,Wallal Downs,0,Tank, ,WELLEQ,Tank,878,0,-1205262.491,-2184154.542,0,1,0,1,Artificial
+300,Wallal Downs,0,Tank, ,WELLEQ,Tank,928,0,-1202589.967,-2183031.19,0,1,0,1,Artificial
+301,Wallal Downs,0,Tank, ,WELLEQ,Tank,928,0,-1199267.216,-2181413.163,0,1,0,1,Artificial
+302,Wallal Downs,0,Tank, ,WELLEQ,Tank,877,0,-1212592.983,-2187282.892,0,1,0,1,Artificial
+303,Wallal Downs,0,Tank, ,WELLEQ,Tank,876,0,-1215973.8,-2187839.597,0,1,0,1,Artificial
+304,Wallal Downs,0,Tank, ,WELLEQ,Tank,823,0,-1222267.569,-2195900.823,0,1,0,1,Artificial
+305,Wallal Downs,0,Tank, ,WELLEQ,Tank,876,0,-1216813.327,-2190887.33,0,1,0,1,Artificial
+306,Wallal Downs,0,Tank, ,WELLEQ,Tank,876,0,-1219605.165,-2189974.532,0,1,0,1,Artificial
+307,Wallal Downs,0,Tank, ,WELLEQ,Tank,1024,0,-1176677.814,-2169761.081,0,1,0,1,Artificial
+308,Wallal Downs,0,Tank, ,WELLEQ,Tank,931,0,-1187160.884,-2180956.45,0,1,0,1,Artificial
+309,Wallal Downs,0,Tank, ,WELLEQ,Tank,978,0,-1191914.387,-2177534.983,0,1,0,1,Artificial
+310,Wallal Downs,0,Tank, ,WELLEQ,Tank,978,0,-1189760.788,-2175036.74,0,1,0,1,Artificial
+311,Wallal Downs,0,Tank, ,WELLEQ,Tank,980,0,-1180623.744,-2176172.976,0,1,0,1,Artificial
+312,Wallal Downs,0,Tank, ,WELLEQ,Tank,979,0,-1186520.712,-2175154.791,0,1,0,1,Artificial
+313,Wallal Downs,0,Tank, ,WELLEQ,Tank,1026,0,-1170246.58,-2170441.863,0,1,0,1,Artificial
+314,Wallal Downs,0,Tank, ,WELLEQ,Tank,1024,0,-1179731.783,-2170566.548,0,1,0,1,Artificial
+315,Mandora,0, , ,WELLEQ, ,1111,0,-1145361.152,-2152967.839,0,1,0,1,Artificial
+316,Mandora,0, , ,WELLEQ, ,1111,0,-1145518.31,-2153044.077,0,1,0,1,Artificial
+317,Mandora,0, , ,WELLEQ, ,1111,0,-1149225.591,-2153320.35,0,1,0,1,Artificial
+318,Mandora,0, , ,WELLEQ, ,1110,0,-1152591.174,-2155251.357,0,1,0,1,Artificial
+319,Mandora,0, , ,WELLEQ, ,1110,0,-1152781.053,-2155338.345,0,1,0,1,Artificial
+320,Mandora,0, , ,WELLEQ, ,1070,0,-1160129.822,-2159014.101,0,1,0,1,Artificial
+321,Mandora,0, , ,WELLEQ, ,1070,0,-1160271.514,-2159020.855,0,1,0,1,Artificial
+322,Mandora,0, , ,WELLEQ, ,1027,0,-1165523.002,-2166645.308,0,1,0,1,Artificial
+323,Nita Downs,0,Tank, ,WELLEQ,Dam,1471,0,-1078810.302,-2091890.108,0,1,0,1,Artificial
+324,Nita Downs,0,Tank, ,WELLEQ,Dam,1497,0,-1083437.781,-2086811.485,0,1,0,1,Artificial
+325,Frazier Downs,0, , ,WELLEQ, ,1522,0,-1096032.032,-2081190.757,0,1,0,1,Artificial
+326, ,0, , ,WELLEQ, ,1495,0,-1098255.289,-2083752.053,0,1,0,1,Artificial
+327,Frazier Downs,0, , ,WELLEQ, ,1549,0,-1087733.623,-2075030.471,0,1,0,1,Artificial
+328,Frazier Downs,0, , ,WELLEQ, ,1550,0,-1082915.227,-2074282.304,1,1,0,1,Artificial
+329,Frazier Downs,0, , ,WELLEQ, ,1550,0,-1084411.786,-2073117.612,1,1,0,1,Artificial
+330,Frazier Downs,0, , ,WELLEQ, ,1548,0,-1091432.419,-2074127.295,0,1,0,1,Artificial
+331,Frazier Downs,0, , ,WELLEQ, ,1575,0,-1086944.476,-2067543.049,1,1,0,1,Artificial
+332,Frazier Downs,0, , ,WELLEQ, ,1600,0,-1086984.559,-2062086.619,1,1,0,1,Artificial
+333,Frazier Downs,0, , ,WELLEQ, ,1626,0,-1083063.413,-2056208.56,0,1,0,1,Artificial
+334,Frazier Downs,0, , ,WELLEQ, ,1626,0,-1082550.134,-2053822.99,0,1,0,1,Artificial
+335,Frazier Downs,0, , ,WELLEQ, ,1627,0,-1076023.411,-2053930.466,0,1,0,1,Artificial
+336,Frazier Downs,0, , ,WELLEQ, ,1627,0,-1079609.1,-2054529.103,0,1,0,1,Artificial
+337,Frazier Downs,0, , ,WELLEQ, ,1650,0,-1086667.289,-2051366.076,0,1,0,1,Artificial
+338,Frazier Downs,0, , ,WELLEQ, ,1651,0,-1083529.982,-2047166.445,0,1,0,1,Artificial
+339,Frazier Downs,0, , ,WELLEQ, ,1700,0,-1064384.973,-2038567.348,0,1,0,1,Artificial
+340,Roebuck,0,Tank, ,WELLEQ,Tank,1959,1,-981184.6806,-1940875.237,0,1,0,1,Artificial
+341, ,0, , ,WELLEQ, ,1962,1,-1037834.89,-1937263.339,0,1,0,1,Artificial
+342, ,0, , ,WELLEQ, ,1962,1,-1034852.063,-1939029.131,0,1,0,1,Artificial
+343, ,0, , ,WELLEQ, ,1950,1,-1027483.669,-1943354.124,0,1,0,1,Artificial
+344, ,0, , ,WELLEQ, ,1962,1,-1037499.367,-1941452.33,0,1,0,1,Artificial
+345,Pardoo,0,Tank, ,WELLEQ,Tank,819,0,-1245359.241,-2198021.982,0,1,0,1,Artificial
+346,Pardoo,0,Tank, ,WELLEQ,Tank,819,0,-1243808.294,-2197539.861,0,1,0,1,Artificial
+347,Pardoo,0,Tank, ,WELLEQ,Tank,819,0,-1241982.884,-2200493.758,0,1,0,1,Artificial
+348,Wallal Downs,0,Tank, ,WELLEQ,Tank,820,0,-1238060.74,-2200881.087,0,1,0,1,Artificial
+349,Pardoo,0,Tank, ,WELLEQ,Tank,760,0,-1241263.341,-2206814.436,0,1,0,1,Artificial
+350,Wallal Downs,0,Tank, ,WELLEQ,Tank,819,0,-1241579.004,-2200102.373,0,1,0,1,Artificial
+351,Pardoo,0,Tank, ,WELLEQ,Tank,760,0,-1241623.947,-2206279.818,0,1,0,1,Artificial
+352,Pardoo,0,Tank, ,WELLEQ,Tank,817,0,-1256440.695,-2202200.229,0,1,0,1,Artificial
+353,Pardoo,0, , ,WELLEQ,Tank,614,0,-1271718.03,-2211105.436,0,1,0,1,Artificial
+354,Pardoo,0,Tank, ,WELLEQ,Tank,542,0,-1253469.998,-2215749.749,0,1,0,1,Artificial
+355,Roebuck,0,Tank, ,WELLEQ,Tank,1941,1,-1004583.75,-1950299.842,0,1,0,1,Artificial
+356,Mandora,0, , ,WELLEQ, ,1030,0,-1147282.151,-2167592.674,0,1,0,1,Artificial
+357,Mandora,0, , ,WELLEQ, ,984,0,-1156427.278,-2172037.694,0,1,0,1,Artificial
+358,Mandora,0, , ,WELLEQ, ,1070,0,-1157955.449,-2159433.395,0,1,0,1,Artificial
+359,Mandora,0, , ,WELLEQ, ,1070,0,-1157690.694,-2159285.312,0,1,0,1,Artificial
+360,Mandora,0, , ,WELLEQ, ,1027,0,-1162612.608,-2170733.313,0,1,0,1,Artificial
+361,Mandora,0, , ,WELLEQ, ,1027,0,-1163112.173,-2167017.223,0,1,0,1,Artificial
+362,Mandora,0, , ,WELLEQ, ,1026,0,-1167579.292,-2165942.566,0,1,0,1,Artificial
+363, ,0, , ,WELLEQ, ,232,0,-1300834.177,-2246190.204,0,1,0,1,Artificial
+364, ,0, , ,WELLEQ, ,228,0,-1321875.321,-2248875.092,0,1,0,1,Artificial
+365, ,0, , ,WELLEQ, ,381,0,-1307212.578,-2235368.098,0,1,0,1,Artificial
+366, ,0, , ,WELLEQ, ,382,0,-1301834.714,-2235457.679,0,1,0,1,Artificial
+367, ,0, , ,WELLEQ, ,306,0,-1303299.519,-2240250.75,0,1,0,1,Artificial
+368, ,0, , ,WELLEQ, ,307,0,-1302123.522,-2242934.237,0,1,0,1,Artificial
+369, ,0, , ,WELLEQ, ,305,0,-1309775.769,-2239260.077,0,1,0,1,Artificial
+370, ,0, , ,WELLEQ, ,305,0,-1311695.538,-2242678.106,0,1,0,1,Artificial
+371, ,0, , ,WELLEQ, ,231,0,-1306455.14,-2244308.894,0,1,0,1,Artificial
+372, ,0, , ,WELLEQ, ,304,0,-1317227.861,-2243130.175,0,1,0,1,Artificial
+373, ,0, , ,WELLEQ, ,229,0,-1317405.027,-2245628.468,0,1,0,1,Artificial
+374, ,0, , ,WELLEQ, ,228,0,-1321851.366,-2245747.04,0,1,0,1,Artificial
+375, ,0, , ,WELLEQ, ,303,0,-1321443.501,-2245008.76,0,1,0,1,Artificial
+376, ,0, , ,WELLEQ, ,379,2,-1315694.327,-2237345.874,0,1,0,1,Artificial
+377, ,0, , ,WELLEQ, ,380,2,-1311949.612,-2234320.079,0,1,0,1,Artificial
+378, ,0, , ,WELLEQ, ,378,0,-1322849.902,-2235369.926,0,1,0,1,Artificial
+379, ,0, , ,WELLEQ, ,453,0,-1325052.326,-2230738.744,0,1,0,1,Artificial
+380, ,0, , ,WELLEQ, ,454,2,-1317933.207,-2229371.064,0,1,0,1,Artificial
+381, ,0, , ,WELLEQ, ,455,2,-1311896.52,-2228909.571,0,1,0,1,Artificial
+382, ,0, , ,WELLEQ, ,531,0,-1307689.813,-2223507.249,0,1,0,1,Artificial
+383, ,0, , ,WELLEQ, ,753,0,-1311692.188,-2213822.676,0,1,0,1,Artificial
+384, ,0, , ,WELLEQ, ,606,0,-1310147.45,-2216802.476,0,1,0,1,Artificial
+385, ,0, , ,WELLEQ, ,605,0,-1312580.408,-2217024.132,0,1,0,1,Artificial
+386, ,0, , ,WELLEQ, ,606,0,-1308907.33,-2218577.684,0,1,0,1,Artificial
+387, ,0, , ,WELLEQ, ,607,0,-1305083.582,-2215396.449,0,1,0,1,Artificial
+388, ,0, , ,WELLEQ, ,607,0,-1300207.966,-2216119.484,0,1,0,1,Artificial
+389, ,0, , ,WELLEQ, ,607,0,-1304859.147,-2217502.384,0,1,0,1,Artificial
+390, ,0, , ,WELLEQ, ,607,0,-1302864.488,-2218283.563,0,1,0,1,Artificial
+391, ,0, , ,WELLEQ, ,528,0,-1325904.429,-2224161.972,0,1,0,1,Artificial
+392, ,0, , ,WELLEQ, ,528,0,-1323889.817,-2225004.514,0,1,0,1,Artificial
+393, ,0, , ,WELLEQ, ,528,0,-1322506.015,-2226715.086,0,1,0,1,Artificial
+394, ,0, , ,WELLEQ, ,530,2,-1312672.5,-2222968.623,0,1,0,1,Artificial
+395, ,0, , ,WELLEQ, ,530,2,-1314580.899,-2221860.07,0,1,0,1,Artificial
+396, ,0, , ,WELLEQ, ,529,0,-1320040.294,-2221321.115,0,1,0,1,Artificial
+397, ,0, , ,WELLEQ, ,603,0,-1324708.924,-2218027.288,0,1,0,1,Artificial
+398, ,0, , ,WELLEQ, ,753,0,-1316081.257,-2209055.344,0,1,0,1,Artificial
+399,Pardoo,0,Tank, ,WELLEQ,Tank,234,0,-1289894.326,-2243932.161,0,1,0,1,Artificial
+400, ,0, , ,WELLEQ, ,308,0,-1296257.159,-2238109.039,0,1,0,1,Artificial
+401,Pardoo,0,Tank, ,WELLEQ,Tank,308,0,-1295174.686,-2239864.275,0,1,0,1,Artificial
+402,Pardoo,0,Tank, ,WELLEQ,Tank,458,0,-1295708.709,-2228246.161,0,1,0,1,Artificial
+403,Pardoo,0,Tank, ,WELLEQ,Tank,533,0,-1296835.143,-2223157.676,0,1,0,1,Artificial
+404,Pardoo,0,Tank, ,WELLEQ,Tank,533,0,-1293873.881,-2223794.446,0,1,0,1,Artificial
+405,Pardoo,0,Tank, ,WELLEQ,Tank,533,0,-1296791.778,-2218943.663,0,1,0,1,Artificial
+406, ,0, , ,WELLEQ, ,530,2,-1314063.932,-2222001.079,0,1,0,1,Artificial
+407, ,0, , ,WELLEQ, ,753,0,-1315540.837,-2208914.777,0,1,0,1,Artificial
+408,Pardoo,0,Tank, ,WELLEQ,Tank,758,0,-1256175.561,-2204448.611,0,1,0,1,Artificial
+409,Pardoo,0,Tank, ,WELLEQ,Tank,759,0,-1248346.455,-2207044.754,0,1,0,1,Artificial
+410,Pardoo,0,Tank, ,WELLEQ,Tank,757,0,-1262029.126,-2204685.774,0,1,0,1,Artificial
+411,Pardoo,0,Tank, ,WELLEQ,Tank,755,0,-1267799.681,-2207888.018,0,1,0,1,Artificial
+412,Pardoo,0,Tank, ,WELLEQ,Tank,757,0,-1261728.153,-2206121.36,0,1,0,1,Artificial
+413,Pardoo,0, , ,WELLEQ,Tank,614,0,-1272468.606,-2211514.35,0,1,0,1,Artificial
+414,Pardoo,0,Tank, ,WELLEQ,Tank,614,0,-1269800.248,-2211183.453,0,1,0,1,Artificial
+415,Pardoo,0,Tank, ,WELLEQ,Dam,614,0,-1267697.119,-2212021.22,0,1,0,1,Artificial
+416,Pardoo,0,Tank, ,WELLEQ,Tank,615,0,-1262230.658,-2211680.505,0,1,0,1,Artificial
+417,Pardoo,0,Tank, ,WELLEQ,Tank,540,0,-1263139.139,-2217362.008,0,1,0,1,Artificial
+418,Pardoo,0,Tank, ,WELLEQ,Tank,539,0,-1266481.975,-2216843.777,0,1,0,1,Artificial
+419,Pardoo,0,Tank, ,WELLEQ,Tank,539,0,-1270247.256,-2216938.213,0,1,0,1,Artificial
+420,Pardoo,0,Tank, ,WELLEQ,Tank,612,0,-1278723.147,-2214111.313,0,1,0,1,Artificial
+421,Pardoo,0,Tank, ,WELLEQ,Tank,612,0,-1278570.03,-2215666.777,0,1,0,1,Artificial
+422,Pardoo,0,Tank, ,WELLEQ,Tank,613,0,-1274608.851,-2215694.716,0,1,0,1,Artificial
+423,Pardoo,0,Tank, ,WELLEQ,Tank,612,0,-1281374.106,-2216314.769,0,1,0,1,Artificial
+424,Pardoo,0,Tank, ,WELLEQ,Tank,611,0,-1284937.267,-2216768.616,0,1,0,1,Artificial
+425, ,0, , ,WELLEQ, ,608,0,-1299063.041,-2213489.554,0,1,0,1,Artificial
+426, ,0, , ,WELLEQ, ,608,0,-1298559.77,-2213157.16,0,1,0,1,Artificial
+427,Pardoo,0,Tank, ,WELLEQ,Tank,608,0,-1297795.803,-2215908.074,0,1,0,1,Artificial
+428,Pardoo,0,Tank, ,WELLEQ,Tank,611,0,-1287956.345,-2216094.683,0,1,0,1,Artificial
+429,Pardoo,0,Tank, ,WELLEQ,Tank,534,0,-1289464.704,-2218524.207,0,1,0,1,Artificial
+430,Pardoo,0,Tank, ,WELLEQ,Tank,536,0,-1287780.442,-2221070.275,0,1,0,1,Artificial
+431,Pardoo,0,Tank, ,WELLEQ,Tank,537,0,-1280241.66,-2222277.44,0,1,0,1,Artificial
+432,Pardoo,0,Tank, ,WELLEQ,Tank,534,0,-1289424.154,-2223516.263,0,1,0,1,Artificial
+433,Pardoo,0,Tank, ,WELLEQ,Tank,536,0,-1285489.737,-2222306.275,0,1,0,1,Artificial
+434,Pardoo,0,Tank, ,WELLEQ,Tank,461,0,-1283962.126,-2224778.811,0,1,0,1,Artificial
+435,Pardoo,0,Tank, ,WELLEQ,Tank,459,0,-1289150.826,-2228939.874,0,1,0,1,Artificial
+436,Pardoo,0,Tank, ,WELLEQ,Tank,462,0,-1278668.767,-2224898.662,0,1,0,1,Artificial
+437,Pardoo,0,Tank, ,WELLEQ,Tank,538,0,-1275065.516,-2221792.885,0,1,0,1,Artificial
+438,Pardoo,0,Tank, ,WELLEQ,Tank,539,0,-1270210.53,-2221436.959,0,1,0,1,Artificial
+439,Pardoo,0,Tank, ,WELLEQ,Tank,539,0,-1268448.471,-2221386.927,0,1,0,1,Artificial
+440,Pardoo,0,Tank, ,WELLEQ,Tank,463,0,-1274140.48,-2224577.801,0,1,0,1,Artificial
+441,Pardoo,0,Tank, ,WELLEQ,Tank,463,0,-1272584.991,-2224382.816,0,1,0,1,Artificial
+442,Pardoo,0,Tank, ,WELLEQ,Tank,465,0,-1265440.873,-2221805.705,0,1,0,1,Artificial
+443,Pardoo,0,Tank, ,WELLEQ,Tank,462,0,-1278292.436,-2228031.411,0,1,0,1,Artificial
+444,Pardoo,0,Tank, ,WELLEQ,Tank,392,0,-1250020.43,-2230181.573,0,1,0,1,Artificial
+445,Mandora,0, , ,BORE, ,1031,0,-1138772.519,-2165963.196,0,1,0,1,Artificial
+446,Mandora,0, , ,BORE, ,1031,0,-1138470.19,-2165929.72,0,1,0,1,Artificial
+447,Mandora,0, , ,BORE, ,1029,0,-1150665.882,-2167026.684,0,1,0,1,Artificial
+448,Mandora,0, , ,BORE, ,986,0,-1144142.304,-2170513.487,0,1,0,1,Artificial
+449,Mandora,0, , ,BORE, ,1031,0,-1140071.927,-2165872.904,0,1,0,1,Artificial
+450, ,0, , ,BORE, ,1423,0,-1040377.488,-2093860.46,0,1,0,1,Artificial
+451,Frazier Downs,0, , ,BORE, ,1603,0,-1073149.117,-2059403.916,0,1,0,1,Artificial
+452,Frazier Downs,0, , ,BORE, ,1600,0,-1088366.24,-2061338.325,0,1,0,1,Artificial
+453,Frazier Downs,0, , ,BORE, ,1601,0,-1084933.409,-2060770.826,0,1,0,1,Artificial
+454,Frazier Downs,0, , ,BORE, ,1626,0,-1083036.868,-2054502.95,0,1,0,1,Artificial
+455,Frazier Downs,0, , ,BORE, ,1650,0,-1089516.291,-2048078.992,0,1,0,1,Artificial
+456,Frazier Downs,0, , ,BORE, ,1743,0,-1068589.511,-2021937.951,0,1,0,1,Artificial
+457,Thangoo,0,Tank, ,BORE,Tank,1894,0,-1006192.946,-1970080.895,0,1,0,1,Artificial
+458,Thangoo,0,Tank, ,BORE,Tank,1844,0,-1013656.195,-1990482.407,0,1,0,1,Artificial
+459,Thangoo,0,Tank, ,BORE,Tank,1869,0,-1026056.103,-1986496.207,0,1,0,1,Artificial
+460,Thangoo,0,Tank, ,BORE,Tank,1844,0,-1013230.344,-1990900.828,0,1,0,1,Artificial
+461,Thangoo,0,Tank, ,BORE,Tank,1871,0,-1014527.819,-1984779.352,0,1,0,1,Artificial
+462,Thangoo,0,Tank, ,BORE,Tank,1893,0,-1012068.443,-1972845.192,0,1,0,1,Artificial
+463,Thangoo,0,Tank, ,BORE,Tank,1786,0,-1056352.956,-2014502.785,0,1,0,1,Artificial
+464,Thangoo,0,Tank, ,BORE,Tank,1786,0,-1057014.615,-2010337.265,0,1,0,1,Artificial
+465, ,0, , ,BORE, ,1812,0,-1014989.698,-2002816.723,0,1,0,1,Artificial
+466,Thangoo,0,Tank, ,BORE,Tank,1840,0,-1031729.819,-1989914.151,0,1,0,1,Artificial
+467,Thangoo,0,Tank, ,BORE,Tank,1882,0,-1018648.776,-1980941.228,0,1,0,1,Artificial
+468,Thangoo,0,Tank, ,BORE,Tank,1843,0,-1021197.284,-1989491.848,0,1,0,1,Artificial
+469,Thangoo,0,Tank, ,BORE,Tank,1870,0,-1022003.536,-1985878.305,0,1,0,1,Artificial
+470,Roebuck,0,Tank, ,BORE,Tank,1933,1,-976801.8636,-1953204.759,0,1,0,1,Artificial
+471,Roebuck,0,Tank, ,BORE,Tank,1956,1,-999102.5523,-1942254.506,0,1,0,1,Artificial
+472,Roebuck,0,Tank, ,BORE,Tank,1958,1,-982612.199,-1943073.279,0,1,0,1,Artificial
+473,Roebuck,0,Tank, ,BORE,Tank,1908,1,-984647.9025,-1964949.898,0,1,0,1,Artificial
+474,Roebuck,0,Tank, ,BORE,Tank,1916,1,-1002698.175,-1961506.354,0,1,0,1,Artificial
+475,Roebuck,0,Tank, ,BORE,Tank,1941,1,-1008602.991,-1950669.356,0,1,0,1,Artificial
+476,Roebuck,0,Tank, ,BORE,Tank,1941,1,-1008534.517,-1950649.559,0,1,0,1,Artificial
+477,Roebuck,0,Tank, ,BORE,Tank,1941,1,-1006587.486,-1950925.698,0,1,0,1,Artificial
+478,Roebuck,0,Tank, ,BORE,Tank,1915,1,-1008248.604,-1961517.274,0,1,0,1,Artificial
+479, ,0, , ,BORE, ,1964,1,-1028862.392,-1936060.855,0,1,0,1,Artificial
+480, ,0, , ,BORE, ,1964,1,-1029752.224,-1937450.553,0,1,0,1,Artificial
+481, ,0, , ,BORE, ,1962,1,-1034785.415,-1939607.069,0,1,0,1,Artificial
+482, ,0, , ,BORE, ,1949,1,-1035123.417,-1946263.972,0,1,0,1,Artificial
+483,Shamrock,0,Dam, ,BORE,Dam,1723,0,-1054687.848,-2028962.905,0,1,0,2,Artificial
+484,Shamrock,0,Dam, ,BORE,Dam,1581,0,-1051671.953,-2066516.265,0,1,0,2,Artificial
+485,Shamrock,0,Dam, ,BORE,Dam,1631,0,-1056006.555,-2050553.09,0,1,0,2,Artificial
+486,Shamrock,0,Dam, ,BORE,Dam,1681,0,-1043020.372,-2041435.247,0,1,0,2,Artificial
+487,Shamrock,0,Dam, ,BORE,Dam,1680,0,-1051466.213,-2042071.105,0,1,0,2,Artificial
+488,Shamrock,0,Dam, ,BORE,Dam,1705,0,-1036795.31,-2033670.503,0,1,0,2,Artificial
+489,Shamrock,0,Dam, ,BORE,Dam,1747,0,-1044841.843,-2021673.668,0,1,0,2,Artificial
+490,Pardoo,0,Tank, ,BORE,Tank,534,0,-1290088.296,-2219691.601,0,1,0,1,Artificial
+491,Mandora,0, , ,BORE, ,1027,0,-1161206.586,-2166967.817,0,1,0,1,Artificial
+492,Mandora,0, , ,BORE, ,1027,0,-1160940.812,-2167177.171,0,1,0,1,Artificial
+493, ,0, , ,BORE, ,322,0,-1224050.796,-2234751.8,0,1,0,1,Artificial
+494, ,0, , ,BORE, ,322,0,-1224946.545,-2234603.013,0,1,0,1,Artificial
+495, ,0, , ,BORE, ,322,0,-1224698.595,-2235505.747,0,1,0,1,Artificial
+496, ,0, , ,BORE, ,303,0,-1322794.092,-2239368.479,0,1,0,1,Artificial
+497, ,0, , ,BORE, ,303,0,-1320157.984,-2240195.782,0,1,0,1,Artificial
+498, ,0, , ,BORE, ,304,0,-1318925.302,-2241271.93,0,1,0,1,Artificial
+499, ,0, , ,BORE, ,303,0,-1319730.318,-2242428.984,0,1,0,1,Artificial
+500, ,0, , ,BORE, ,303,0,-1320400.997,-2242975.854,0,1,0,1,Artificial
+501, ,0, , ,BORE, ,606,0,-1307248.475,-2214526.539,0,1,0,1,Artificial
+502, ,0, , ,BORE, ,531,0,-1307308.261,-2222539.223,0,1,0,1,Artificial
+503,Pardoo,0,Tank, ,BORE,Tank,614,0,-1269651.523,-2213891.873,0,1,0,1,Artificial
+504, ,0, , ,DAM, ,306,0,-1307346.08,-2242913.126,0,1,0,1,Artificial
+505, ,0, , ,DAM, ,531,0,-1306839.929,-2222775.621,0,1,0,1,Artificial
+506, ,0, , ,DAM, ,606,0,-1307764.761,-2214401.825,0,1,0,1,Artificial
+507,Nita Downs,0,Tank, ,DAM,Dam,1497,0,-1083494.137,-2086552.927,0,1,0,1,Artificial
+508,Frazier Downs,0, , ,DAM, ,1651,0,-1083287.927,-2047226.749,0,1,0,1,Artificial
+509,Shamrock,0,Dam, ,DAM,Dam,1631,0,-1055865.415,-2050008.196,0,1,0,2,Artificial
+510,Shamrock,0,Dam, ,DAM,Dam,1749,0,-1036113.131,-2023010.71,0,1,0,2,Artificial
+511, ,0, , ,DAM,Dam,1705,0,-1036908.668,-2033487.774,0,1,0,1,Artificial
+512,Shamrock,0,Tank, ,DAM,Tank,1725,0,-1045451.679,-2029029.207,0,1,0,1,Artificial
+513,Shamrock,0,Dam, ,DAM,Dam,1708,0,-1022373.689,-2034184.267,0,1,0,2,Artificial
+514, ,0, , ,DAM, ,1661,0,-1025655.534,-2045286.516,0,1,0,1,Artificial
+515,Shamrock,0,Dam, ,DAM,Dam,1730,0,-1021679.416,-2024119.112,0,1,0,2,Artificial
+516,Shamrock,0,Dam, ,DAM,Dam,1610,0,-1030147.448,-2055234.59,0,1,0,2,Artificial
+517,Shamrock,0,Dam, ,DAM,Dam,1584,0,-1039260.551,-2060704.189,0,1,0,2,Artificial
+518,Shamrock,0,Dam, ,DAM,Dam,1606,0,-1053638.355,-2060850.649,0,1,0,2,Artificial
+519,Roebuck,0,Dam, ,DAM,Dam,1930,1,-997152.5175,-1951912.146,0,1,0,2,Artificial
+520,Roebuck,0,Tank, ,DAM,Tank,1957,1,-991838.4857,-1940517.832,0,1,0,1,Artificial
+521,Roebuck,0,Dam, ,DAM,Dam,1929,1,-1000881.204,-1955717.423,0,1,0,2,Artificial
+522,Roebuck,0,Dam, ,DAM,Dam,1929,1,-1003894.584,-1953210.512,0,1,0,2,Artificial
+523,Roebuck,0,Dam, ,DAM,Dam,1927,1,-1009944.081,-1957101.036,0,1,0,2,Artificial
+524,Roebuck,0,Dam, ,DAM,Dam,1941,1,-1006097.166,-1951299.602,0,1,0,2,Artificial
+525,Roebuck,0,Dam, ,DAM,Dam,1915,1,-1008177.838,-1961096.594,0,1,0,2,Artificial
+526, ,0, , ,DAM, ,2014,1,-984041.4236,-1919534.164,0,1,0,1,Artificial
+527, ,0, , ,DAM, ,1964,1,-1029767.199,-1937490.003,0,1,0,1,Artificial
+528,Pardoo,0,Chinamans Spring, ,NA,Chinamans Spri*,533,0,-1295122.188,-2218749.216,0,0,158,1,Natural
+529,Pardoo,0,Banangarra Spring, ,NA,Banangarra Spr*,611,0,-1288263.09,-2216141.331,0,0,158,1,Natural
+530,Wallal Downs,0, , ,NA,Salt lake,819,0,-1240723.144,-2201014.983,0,0,158,1,Natural
+531,Wallal Downs,0, , ,NA,Salt lake,819,0,-1240313.124,-2201141.087,0,0,158,1,Natural
+532,Wallal Downs,0, , ,NA,Salt lake,820,0,-1240062.812,-2200812.165,0,0,158,1,Natural
+533,Anna Plains,0,Mandora Marsh, ,NA,Mandora Marsh,997,0,-1088697.314,-2164705.535,0,0,158,1,Natural
+534,Anna Plains,0,Mandorah Marsh, ,NA,Mandorah Marsh,999,0,-1082257.457,-2167500.212,0,0,158,1,Natural
+535,Anna Plains,0,Mandora Marsh, ,NA,Mandora Marsh,999,0,-1079601.626,-2164516.982,0,0,158,1,Natural
+536,Anna Plains,0, Mannarie Marsh, ,NA, Mannarie Marsh,1496,0,-1090934.373,-2087658.196,0,0,158,1,Natural
+537,Nita Downs,0, , ,NA,Spring,1335,0,-1039329.055,-2111857.465,0,0,158,1,Natural
+538,Nita Downs,0, , ,NA,Spring,1305,0,-1035005.161,-2118084.257,0,0,158,1,Natural
+539,Frazier Downs,0, , ,NA, ,1700,0,-1064214.341,-2033095.243,0,0,158,1,Natural
+540,Frazier Downs,0, , ,NA, ,1627,0,-1075292.503,-2054352.441,0,0,158,1,Natural
+541,Frazier Downs,0, Warreba Spring, ,NA, Warreba Spring,1549,0,-1086619.323,-2073706.009,0,0,158,1,Natural
+542,Roebuck,0,Lake Eda, ,NA,Lake Eda,1944,1,-991328.9128,-1945874.203,0,0,158,1,Natural
+543,Roebuck,0,Lake Eda, ,NA,Lake Eda,1944,1,-990250.748,-1945947.357,0,0,158,1,Natural
+544,Wallal Downs,0,Road bore, , ,Road bore,472,0,-1224958.478,-2217977.289,0,1,0,1,Artificial
+545,Wallal Downs,0,Road bore, , ,Road bore,822,0,-1226196.492,-2198562.309,0,1,0,1,Artificial
+546,Wallal Downs,0,Road bore, , ,Road bore,822,0,-1226153.436,-2196703.78,0,1,0,1,Artificial
+547,Wallal Downs,0,Road bore, , ,Road bore,825,0,-1210484.139,-2193624.577,0,1,0,1,Artificial
+548,Wallal Downs,0,Road bore, , ,Road bore,881,0,-1196210.924,-2186463.493,0,1,0,1,Artificial
+549,Wallal Downs,0,Road bore, , ,Road bore,980,0,-1178796.839,-2177701.063,0,1,0,1,Artificial
+550,Thangoo,0,Road bore, , ,Road bore,1843,0,-1023208.928,-1991785.196,0,1,0,1,Artificial
+551,Thangoo,0,Road bore, , ,Road bore,1843,0,-1018576.164,-1990591.885,0,1,0,1,Artificial
+552,Thangoo,0,Road bore, , ,Road bore,1844,0,-1013099.621,-1988424.532,0,1,0,1,Artificial
+553,Thangoo,0,Road bore, , ,Road bore,1873,0,-1006293.193,-1981388.295,0,1,0,1,Artificial
+554,Thangoo,0,Road bore, , ,Road bore,1895,0,-998754.1908,-1973668.694,0,1,0,1,Artificial
+555,Wallal Downs,0,Tank, ,NA,Tank,820,0,-1237614.788,-2195406.405,0,1,0,1,Artificial
+556,Wallal Downs,0,Tank, ,NA,Tank,821,0,-1234238.61,-2194556.071,0,1,0,1,Artificial
+557,Wallal Downs,0,Tank, ,NA,Tank,821,0,-1232063.128,-2192383.852,0,1,0,1,Artificial
+558,Wallal Downs,0,Tank, ,NA,Tank,822,0,-1229390.828,-2192742.571,0,1,0,1,Artificial
+559,Wallal Downs,0,Tank, ,NA,Tank,878,0,-1208352.73,-2183379.806,0,1,0,1,Artificial
+560,Wallal Downs,0,Tank, ,NA,Tank,977,0,-1196042.66,-2177628.952,0,1,0,1,Artificial
+561,Wallal Downs,0,Tank, ,NA,Tank,885,0,-1171073.442,-2186813.711,0,1,0,1,Artificial
+562,Wallal Downs,0,Tank, ,NA,Tank,1026,0,-1170414.09,-2166768.349,0,1,0,1,Artificial
+563,Nita Downs,0,Dam, ,NA,Dam,1417,0,-1073708.686,-2097092.74,0,1,0,2,Artificial
+564,Nita Downs,0,Dam, ,NA,Dam,1389,0,-1070380.702,-2100984.609,0,1,0,2,Artificial
+565,Nita Downs,0,Dam, ,NA,Dam,1359,0,-1071519.558,-2105693.024,0,1,0,2,Artificial
+566,Anna Plains,0, , Anna Plains Homestead,Dwelling, ,1354,0,-1100839.303,-2106635.341,0,0,0,1,Dwelling
