@@ -1,32 +1,25 @@
 ############Removes rows from the waterpoints dataset based on management decisions
-modify.plb <- function(plb, future.irrigation, current.irrigation, IPA, Properties, Name, Dwelling){ 
-	#Future irrigation
-	if (future.irrigation == FALSE) {
-	plb <- subset(plb,!(plb$Purpose == "Irrigation" & plb$Type == 2))
-	plb$FID <- c(1:nrow(plb))
-	rownames(plb) <- plb$FID}
-	#Current irrigation
-	if (current.irrigation == FALSE) {
-	plb <- subset(plb,!(plb$Purpose == "Irrigation" & plb$Type == 1))
-	plb$FID <- c(1:nrow(plb))
-	rownames(plb) <- plb$FID}	
-	#IPA areas
-	if (IPA == TRUE) {
-	plb <- subset(plb,!(plb$Property == "Frazier Downs" & IPA==0 & Purpose=="Artificial")) #This is confusing - the points to remove are those that are artificial within Frazier Downs with an IPA code = 0. The points with a code = 1 refer to those within Frazier Downs that will remain operational. 
-	plb$FID <- c(1:nrow(plb))
-	rownames(plb) <- plb$FID }
-	#Properties
-	if (Properties == TRUE) {
-	plb <- subset(plb,!plb$Property == Name)
-	plb$FID <- c(1:nrow(plb))
-	rownames(plb) <- plb$FID }
-	#Dwellings
-	if (Dwelling == FALSE) {
-	plb <- subset(plb,!plb$Purpose == "Dwelling")
-	plb$FID <- c(1:nrow(plb))
-	rownames(plb) <- plb$FID }
-	return(plb)
-}
+modify.plb <- function(plb, future.irrigation, IPA, Dwelling, Properties){ 
+    #Future irrigation
+    if (future.irrigation == FALSE) {
+      plb <- subset(plb,!(plb$Purpose == "Irrigation" & plb$Type == 2))
+    }
+    #IPA areas
+    if (IPA == TRUE) {
+      plb <- subset(plb,!(plb$Property == "Frazier Downs" & plb$IPA==0))
+    }
+    #Properties
+    if (!is.na(Properties)) {
+      plb <- subset(plb,!plb$Property %in% Properties)
+    }
+    #Dwellings
+    if (Dwelling == FALSE) {
+      plb <- subset(plb,!plb$Purpose == "Dwelling")
+    }
+    plb$FID <- c(1:nrow(plb))
+    rownames(plb) <- plb$FID 
+    return(plb)
+  }
 
 #Sets unique detection radii for irrigation and La Grange
 detection.radius <- function(plb) {
@@ -237,7 +230,7 @@ obs_pred_cf<-function(preds, obs){
 }
 
 # spreads the population over gens generations or until target sites are reached. Includes a failure rate of managed waterpoints
-spread.pilb.failure<-function(pop, gens, pairs, target, delta, r, trunc.dist){ #pairs is a list from pdist.fast  
+spread.pilb.failure<-function(pop, gens, pairs, target, delta, r, trunc.dist, failure.rate){ #pairs is a list from pdist.fast  
 	for (i in 1:gens){ #loop through time
 		pop[,"Man"] <- managed	
 		#Wet season starts and toads can spread
@@ -367,9 +360,9 @@ knock.out.nn.xy<-function(X, Y, spread.table, n, natural){
 }
 
 #This function Removes waterbodies at a site until a fixed budget is spent
-knock.out.nn.budget<-function(X, Y, spread.table, n, natural, irrigation, dwelling, Pres, cost.WP) {
+knock.out.nn.budget<-function(X, Y, spread.table, n, natural, irrigation, dwelling, Pres, cost.WP, rmnat, rmirr, rmdwel) {
   if (length(X)>1 | length(Y)>1) {warning("Multiple point Removal not allowed"); return(NULL)}
-  pdists<-sqrt((spread.table[,"X"]-X)^2+(spread.table[,"Y"]-Y)^2) #Calculates distance of all waterbodies from the location of interest
+  pdists<-(spread.table[,"Y"]-Y)^2 #sqrt((spread.table[,"X"]-X)^2+(spread.table[,"Y"]-Y)^2) #Calculates distance of all waterbodies from the location of interest
   top <- order(pdists)
   if (rmnat==FALSE) {top<-top[!top%in%natural]} 
   if (rmirr==FALSE) {top<-top[!top%in%irrigation]} 
@@ -480,34 +473,6 @@ if (plot.barriers == TRUE) {
 	return(corridor)}
 }
 
-cost.waterpoint <- function(plb,gens,dst,plot.cost) { ##Include discounting for maintanaence and replacement -> C = P(1+r)^t
-cost.WP <- matrix(NA,nrow(plb),1)
-purpose <- plb$Purpose
-type <- plb$Type
-perimeter <- plb$Perimeter/100 #Perimeter of fences in 100s of metres
-disc<- c(1:gens)
-disc.repair.tank<-0.025*8500*(1+0.05)^disc
-disc.replace.tank<-0.02*8500*(1+0.05)^disc
-for (cc in 1:nrow(plb)){
-	if (purpose[cc] == "Artificial" & type[cc] == 1) #Tanks
-	{cost.WP[cc] <- plb[cc,37]*1.5 + plb[cc,37]/100*100 + 32*100 + 2000 + sum(disc.repair.tank) + 0 + sum(disc.replace.tank)} #Upgrade cost + maintenance costs + replacement costs
-	if (purpose[cc] == "Artificial" & type[cc] == 2) #Dams
-	{cost.WP[cc] <- plb[cc,37]*1.5 + plb[cc,37]/100*100 + 32*100 + 8500 + sum(disc.repair.tank) + 0 + sum(disc.replace.tank)} #Installation cost + maintenance costs + replacement costs
-	if (purpose[cc] == "Natural") #Natural
-	{disc.repair.fence<-0.025*2860*perimeter[cc]*(1+0.05)^disc
-	disc.replace.fence<-(2860*perimeter[cc])/15*(1+0.05)^disc
-	cost.WP[cc] <- plb[cc,37]*1.5 + plb[cc,37]/100*100 + 32*100 + 2860*perimeter[cc] + sum(disc.repair.fence) + 0 + sum(disc.replace.fence)} #Installation cost + maintenance + replacement
-	if (purpose[cc] == "Irrigation") #Irrigation
-	{disc.repair.fence<-0.025*2860*perimeter[cc]*(1+0.05)^disc
-	disc.replace.fence<-(2860*perimeter[cc])/15*(1+0.05)^disc
-	cost.WP[cc] <- plb[cc,37]*1.5 + (plb[cc,37])/100*100 + 32*100*plb$Perimeter[cc]/158 + 2860*perimeter[cc] + sum(disc.repair.fence) + 0 + sum(disc.replace.fence)}
-	if (purpose[cc] == "Dwelling") {cost.WP[cc] <- 0} #Dwelling
-	}
-if (plot.cost == TRUE) {
-	jet.colors <-colorRampPalette(c("#00007F", "blue", "#007FFF", "cyan","#7FFF7F", "yellow", "#FF7F00", "red", "#7F0000"))
-	plot(X,Y, col=jet.colors(12)[cut(cost.WP, 12)], pch=20, cex=1)}
-	return(cost.WP)	
-}
 
 ###########New cost model with two types of irrigation
 cost.waterpoint2 <- function(plb,gens,dst,plot.cost) { #
@@ -536,7 +501,7 @@ for (cc in 1:nrow(plb)){
 	
 	if (purpose[cc] == "Irrigation" & Property[cc] == "Shalemar") #Irrigation - Fence year round irrigation
 	{fence.installation <- plb[cc,37]*1.50 + 32*100*perimeter[cc] + 3000*perimeter[cc] #Installation = Distance (nearest town * $1.50) + Labour (Perimeter * time per unit @ $100/hr) + Materials (Cost per unit length * Perimeter)
-	fence.maintenance <- 8*100*26+100*(1-0.025)^disc #Maintenance = Labour (1 day per week @ $100 per/h for 6 months) + cost ($100)
+	fence.maintenance <- (8*100*26+100)*(1-0.025)^disc #Maintenance = Labour (1 day per week @ $100 per/h for 6 months) + cost ($100)
 	fence.repair <- fence.installation/10*(1-0.025)^disc #Repair = Installation cost / 10 subject to discount rate
 	cost.WP[cc] <- fence.installation + sum(fence.maintenance) + sum(fence.repair)}
 	if (purpose[cc] == "Dwelling") {cost.WP[cc] <- 0} #Dwelling
