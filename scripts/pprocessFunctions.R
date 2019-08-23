@@ -470,7 +470,8 @@ if (plot.barriers == TRUE) {
 	par(mfrow=c(1,1), mar=c(1.5,4.5,1.5,4.5)+.1, oma=c(5,6,5,3), mai=c(0.1,0.1,0,0.1))
 	plot(ld.points[,"Y"] ~ ld.points[,"X"], col="black", pch=20, ylab="", xlab="", xaxt="n", yaxt="n")
 	points(corridor[,"Y"] ~ corridor[,"X"], col="red", pch=20, cex=2)
-	return(corridor)}
+}
+return(corridor)
 }
 
 

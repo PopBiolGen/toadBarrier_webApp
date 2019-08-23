@@ -1,8 +1,10 @@
 ############################################################################################################################
-#Cost-effective management of cane toads - last edited 18/11/14
+#Cost-effective management of cane toads 
 ###########################################################################################################################
 
 #Water point data is different to Tingley et al. (2013) -> updated from field visit
+# Code tweaked from Southwell et al 2017 J Appl Ecol.
+
 #This code divides the corridor into chunks and places the centre of a single barrier on each interval. 
 #At each location, the code cycles through a range of fixed budgets. 
 #Natural, artificial or irrigated areas can be managed. Future irrigation can be included or excluded
@@ -47,7 +49,7 @@ rmdwel <- FALSE #Always set to FALSE because we assume dwellings can't be manage
 ###############################################################################
 #Set simulation decisions
 gens <- 50 #Set length of management horizon
-reps <- 100 #Set number of simulations for each combination of budget and location
+reps <- 50 #Set number of simulations for each combination of budget and location
 barriers <- 21 #Set the number of bins in the landscape. Note there one less barrier (i.e. if barrier is set to 3, there will be 2 barrier locations
 budget <- seq(300000,6000000,300000) #Set the budget to spent on at each barrier location
 
