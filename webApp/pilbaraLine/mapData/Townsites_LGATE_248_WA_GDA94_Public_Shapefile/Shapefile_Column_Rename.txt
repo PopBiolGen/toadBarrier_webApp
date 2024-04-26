@@ -1,0 +1,7 @@
+'boundary_id' to 'boundary_i'
+'type_description' to 'type_descr'
+'feature_number' to 'feature_nu'
+'abs_lga_number' to 'abs_lga_nu'
+'area_derivation' to 'area_deriv'
+'st_area_shape_' to 'st_area_sh'
+'st_perimeter_shape_' to 'st_perimet'

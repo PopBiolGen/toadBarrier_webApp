@@ -362,7 +362,7 @@ knock.out.nn.xy<-function(X, Y, spread.table, n, natural){
 #This function Removes waterbodies at a site until a fixed budget is spent
 knock.out.nn.budget<-function(X, Y, spread.table, n, natural, irrigation, dwelling, Pres, cost.WP, rmnat, rmirr, rmdwel) {
   if (length(X)>1 | length(Y)>1) {warning("Multiple point Removal not allowed"); return(NULL)}
-  pdists<-(spread.table[,"Y"]-Y)^2 #sqrt((spread.table[,"X"]-X)^2+(spread.table[,"Y"]-Y)^2) #Calculates distance of all waterbodies from the location of interest
+  pdists<-sqrt((spread.table[,"X"]-X)^2+(spread.table[,"Y"]-Y)^2) #Calculates distance of all waterbodies from the location of interest
   top <- order(pdists)
   if (rmnat==FALSE) {top<-top[!top%in%natural]} 
   if (rmirr==FALSE) {top<-top[!top%in%irrigation]} 

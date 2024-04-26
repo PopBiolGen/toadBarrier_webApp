@@ -21,7 +21,7 @@ source("scripts/loadData.R")
 ################################################################################
 #Define waterpoints to use
 future.irrigation <- FALSE #Set to TRUE to include future irrigation, FALSE otherwise
-IPA <- TRUE #Set to TRUE to run with IPA active, FALSE otherwise
+IPA <- FALSE #Set to TRUE to run with IPA active, FALSE otherwise
 Dwelling <- TRUE #Set to TRUE to include dwellings in simulation, FALSE to remove
 Properties <- NA
 
