@@ -1,4 +1,4 @@
-############Removes rows from the waterpoints dataset based on management decisions
+############ Removes rows from the waterpoints dataset based on management decisions
 modify.plb <- function(plb, future.irrigation, IPA, Dwelling, Properties){ 
     #Future irrigation
     if (future.irrigation == FALSE) {

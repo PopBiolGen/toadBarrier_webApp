@@ -2,7 +2,7 @@
 #Cost-effective management of cane toads 
 ###########################################################################################################################
 
-#Water point data is different to Tingley et al. (2013) -> updated from field visit
+# Water point data is different to Tingley et al. (2013) -> updated from field visit
 # Code tweaked from Southwell et al 2017 J Appl Ecol.
 
 #This code divides the corridor into chunks and places the centre of a single barrier on each interval. 
@@ -80,7 +80,7 @@ irr <- which(plb$Name=="Irrigation") #which water bodies (IDs) are irrigation
 dwell <- which(plb$Old_name =="Dwelling") #which water bodies (IDs) are dwellings
 
 ###################################################################################
-#Create 100 years of rainfall data for each site by looping across 20 yeras 5 times
+#Create 100 years of rainfall data for each site by looping across 20 years 5 times
 rain <- plb[,17:36]
 rain <- cbind(rain,rain,rain,rain,rain)
 
