@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+out/
+*.rout
+*.out
+*.Rproj
+*.DS_Store

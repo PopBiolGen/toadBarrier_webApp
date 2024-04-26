@@ -1,0 +1,12 @@
+name: pilbaraline
+title:
+username:
+account: benflips
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1085254
+bundleId: 2340712
+url: https://benflips.shinyapps.io/pilbaraline/
+when: 1566383369.46142
+asMultiple: FALSE
+asStatic: FALSE
